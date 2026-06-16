@@ -7,7 +7,6 @@
 <h2 align="center"> 💻 &nbsp;About Me </h2>
 <ul>
   <li>🔴 &nbsp; Red Teamer in training | Passionate about pentesting and vulnerability exploitation.</li>
-  <li>📚 &nbsp; Lover of programming and code (Python, Bash, PowerShell, Javascript).</li>
   <li>🛡️ &nbsp; Always exploring new techniques in offensive and defensive cybersecurity.</li>
   <li>✍️ &nbsp; Content Creator & Researcher.</li>
   <li>🎯 &nbsp; I enjoy participating in CTFs and creating security-related projects.</li>
